@@ -1,0 +1,23 @@
+{
+  "makkelijk": [
+    "huis", "boom", "auto", "bal", "kat", "zon", "stoel", "boek", "vis", "fiets",
+    "jas", "pen", "deur", "tafel", "lamp", "muis", "bloem", "mes", "oog", "kop",
+    "boot", "pijn", "boom", "veld", "rok", "maan", "kei", "zee", "klok", "bed",
+    "glas", "vloer", "deur", "taart", "bal", "muur", "stok", "jas", "ring", "pot",
+    "koe", "vos", "poot", "stok", "stoel", "tafel", "luis", "sok", "vis"
+  ],
+  "middel": [
+    "computer", "telefoon", "bibliotheek", "muziek", "schilderij", "vliegtuig", "trein", "dokter", "restaurant", "kasteel",
+    "paraplu", "regenboog", "taal", "zeeuws", "schaduw", "tafelkleed", "schroef", "potlood", "schildpad", "knikker",
+    "brug", "markt", "toren", "zand", "kleur", "melk", "wolk", "speelgoed", "sneeuw", "regen",
+    "klas", "vogel", "piano", "radio", "lamp", "glas", "stoel", "boek", "muur", "laptop",
+    "fiets", "schaap", "kruik", "dak", "park", "vijver", "boot", "zee", "klok", "huis"
+  ],
+  "moeilijk": [
+    "parallellogram", "photosynthese", "intermediair", "symfonie", "kwadratisch", "archipel", "thermometer", "hemoglobine", "metamorfose", "antropologie",
+    "pneumatisch", "resonantie", "chronologisch", "zenuwstelsel", "fenomeen", "biochemie", "constellatie", "epidemie", "hermetisch", "logaritme",
+    "algorithm", "catastrofe", "diagonale", "encyclopedie", "fysiologie", "grammatica", "hydraulisch", "immuniteit", "katalysator", "leukemie",
+    "morfologie", "neurologie", "observatie", "paradox", "quantum", "recessie", "satelliet", "taxonomie", "ultrasoon", "variabele",
+    "wiskunde", "xyleem", "yogaleraar", "zoologie", "aberratie", "barometer", "calorie", "democratie", "evolutie", "fractuur"
+  ]
+}
